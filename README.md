@@ -1,2 +1,3 @@
 # cheezy
-Coding
+Codin
+print("hello")
